@@ -5,7 +5,6 @@ import json
 import random
 import requests
 import streamlit as st
-import streamlit_lottie as st_lottie
 from streamlit_option_menu import option_menu
 
 # Set page config
