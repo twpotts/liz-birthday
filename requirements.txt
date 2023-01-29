@@ -1,4 +1,5 @@
 bs4
+protobuf==4.21.12
 requests
 streamlit
 streamlit-option-menu
