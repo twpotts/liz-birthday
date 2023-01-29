@@ -8,5 +8,5 @@ textColor = '#FFF'
 font = 'sans serif'
 [server]
 headless = true
-port = 8080
+port = $PORT
 " > ~/.streamlit/config.toml
