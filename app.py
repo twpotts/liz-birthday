@@ -126,7 +126,8 @@ def get_dog():
     return dogs_dict
 
 def get_meme():
-    meme_base = "https://meme-api.herokuapp.com"
+    # meme_base = "https://meme-api.herokuapp.com"
+    meme_base = "https://meme-api.com"
     subreddit = "wholesomememes" # Default = 'memes', 'dankmemes', 'me_irl'
     count = 1 # max = 50
     meme_url = f"{meme_base}/gimme/{subreddit}/{count}"
